@@ -10,7 +10,7 @@
     {
       "id": "2",
       "name": "Python",
-      "title": "Python is a popular programming language. Python can be used on a server to create web applications.",
+      "title": "Python is a popular programming language. Python can be used on a server to create web applications.You can create backend server using python.",
       "img": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png",
       "discription": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries includedm language due to its comprehensive standard library.",
       "img_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/10/Python-Features.png"
@@ -34,7 +34,7 @@
     {
       "id": "5",
       "name": "php",
-      "title": "The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases.",
+      "title": "The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases.Here you can find full courses of this programming language.This is the most powerful language.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
       "discription": "PHP code is usually processed on a web server by a PHP interpreter implemented as a module, a daemon or as a Common Gateway Interface (CGI) executable. On a web server, the result of the interpreted and executed PHP code – which may be any type of data, such as generated HTML or binary image data – would form the whole or part of an HTTP response. Various web template systems, web content management systems, and web frameworks exist which can be employed to orchestrate or facilitate the generation of that response. Additionally, PHP can be used for many programming tasks outside the web context, such as standalone graphical applications[10] and robotic drone control.[11] PHP code can also be directly executed from the command line.",
       "img_url": "https://static.javatpoint.com/phppages/images/php-features.png"
@@ -50,7 +50,7 @@
     {
       "id": "7",
       "name": "Ruby",
-      "title": "A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
+      "title": "A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.Go the tutorial details.",
       "img": "https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png",
       "discription": "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types. It was developed in the mid-1990s by Yukihiro Matz Matsumoto in Japan.",
       "img_url": "https://static.javatpoint.com/ruby/images/features-of-ruby.png"
@@ -58,7 +58,7 @@
     {
       "id": "8",
       "name": "HTML",
-      "title": "HTML Tutorial ... HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn.",
+      "title": "HTML Tutorial ... HTML is the standard markup language for Web pages. With HTML you can create your own Website.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
       "discription": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.",
       "img_url": "https://www.interviewbit.com/blog/wp-content/uploads/2021/11/Features-of-HTML-800x447.png"
