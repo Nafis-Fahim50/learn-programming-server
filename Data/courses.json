@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": "1",
       "name": "JavaScript",
       "title": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
@@ -8,7 +8,7 @@
       "img_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/10/features-of-javascript.png"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Python",
       "title": "Python is a popular programming language. Python can be used on a server to create web applications.",
       "img": "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png",
@@ -16,7 +16,7 @@
       "img_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/10/Python-Features.png"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "C++",
       "title": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms.",
       "img": "https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png",
@@ -24,7 +24,7 @@
       "img_url": "https://static.javatpoint.com/cpp/images/cpp-features1.png"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "kotlin",
       "title": "Kotlin is a modern, trending programming language. Kotlin is easy to learn, especially if you already know Java (it is 100% compatible with Java).",
       "img": "https://i.pinimg.com/originals/ac/0b/71/ac0b718d995deda3e1e4ee893501324d.png",
@@ -32,7 +32,7 @@
       "img_url": "https://www.cmarix.com/blog/wp-content/uploads/2019/05/xTop-Key-Features-of-Kotlin.jpg.pagespeed.ic.UhfAJqD59S.jpg"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "php",
       "title": "The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases.",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
@@ -40,7 +40,7 @@
       "img_url": "https://static.javatpoint.com/phppages/images/php-features.png"
     },
     {
-      "id": 5,
+      "id": "6",
       "name": "C#",
       "title": "C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, desktop apps, mobile apps.",
       "img": "https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png",
@@ -48,7 +48,7 @@
       "img_url": "https://static.javatpoint.com/csharp/images/csharp-features1.png"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Ruby",
       "title": "A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
       "img": "https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png",
